@@ -1,0 +1,13 @@
+{
+  "name": "kakao-skill-hi4labs",
+  "version": "1.0.0",
+  "description": "Hi4Labs 카카오 i 오픈빌더 자동응답 봇 스킬 서버 (Vercel Functions)",
+  "main": "api/skill.js",
+  "scripts": {
+    "dev": "vercel dev",
+    "start": "vercel start"
+  },
+  "engines": {
+    "node": "18.x"
+  }
+}
